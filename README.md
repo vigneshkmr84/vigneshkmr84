@@ -8,6 +8,6 @@
  - Occationally, I do blog on Architecture thoughts, on [medium](https://vignesh-thirunavukkarasu.medium.com)
 
 
-
+### Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
