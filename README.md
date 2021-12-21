@@ -1,13 +1,13 @@
-### Hello there, 👋   
+### Hello there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hello">
 
 
 #### I'm Vignesh, a Masters Student @ UTDallas, and interested in Distributed sysytems & Cloud Computing
  - Technology is a vast sea and I would like to learn everything 😊
  - Currently exploring Kafka & Redis with a self project
  - Also - I recently got affinated towards IaC platforms (ansible, Terraform)
- - Occationally, I do blog on Architecture thoughts, on [medium](https://vignesh-thirunavukkarasu.medium.com)
+ - Occationally, I do blog my thoughts on [Medium](https://vignesh-thirunavukkarasu.medium.com)
 
-### My famous Quotes 
+### My Favourite Quotes 
  - Everything fails at all the time - **Werner Vogels**
 
 ### 📕 Catch my recent blog posts
@@ -17,9 +17,7 @@
 - [Introduction to service mesh — istio](https://vignesh-thirunavukkarasu.medium.com/service-mesh-with-istio-in-gcp-part-1-ab88965531a2?source=rss-2e315d8a9499------2)
 <!-- BLOG-POST-LIST:END -->
 
-
-### Technology Stack
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -27,8 +25,10 @@
 </a>
 <a href="https://www.jetbrains.com/teamcity/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/TeamCity_Icon.png" alt="TeamCity" width="40" height="40"/> </a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://dwglogo.com/wp-content/uploads/2017/11/OpenShift_logo.png" alt="OpenShift" width="40" height="40"/> </a>
-<a href="https://www.hashicorp.com/products/terraform" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1620155117-brandhcterraformverticalcolorwhite.svg" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.hashicorp.com/products/terraform" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" alt="ansible" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
+
 
 </p>
 
@@ -36,5 +36,5 @@
 <h3 align="left">Reach me @</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vigneshkmr84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigneshkmr84" height="30" width="40" /></a>
-<a href="https://medium.com/@vignesh-thirunavukkarasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vignesh-thirunavukkarasu" height="30" width="40" /></a>
+<a href="https://vignesh-thirunavukkarasu.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vignesh-thirunavukkarasu" height="30" width="40" /></a>
 </p>
