@@ -1,14 +1,19 @@
 ### Hello there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hello">
 
 
-#### I'm Vignesh, a Masters Student @ UTDallas, and interested in Distributed sysytems & Cloud Computing
- - Technology is a vast sea and I would like to learn everything 😊
- - Currently exploring Kafka & Redis with a self project
+#### I'm Vignesh, Masters Student @ UTDallas   
+
+ - I'm interested in Distributed Systems & Cloud Computing
+ - I'm currently exploring Kafka & Redis with a self project
  - Also - I recently got affinated towards IaC platforms (ansible, Terraform)
  - Occationally, I do blog my thoughts on [Medium](https://vignesh-thirunavukkarasu.medium.com)
 
 ### My Favourite Quotes 
- - Everything fails at all the time - **Werner Vogels**
+
+>  Everything fails at all the time - **Werner Vogels**
+
+> “The Only Constant in Life Is Change.”- **Heraclitus**
+
 
 ### 📕 Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -19,6 +24,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
