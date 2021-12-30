@@ -17,6 +17,7 @@
 
 ### 📕 Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How good is uDeploy for Enterprise ?](https://vignesh-thirunavukkarasu.medium.com/how-good-is-udeploy-for-enterprise-1f728d6dd030?source=rss-2e315d8a9499------2)
 - [Useful Linux Commands for Developers](https://vignesh-thirunavukkarasu.medium.com/useful-linux-commands-for-developers-56b96fe53a93?source=rss-2e315d8a9499------2)
 - [Retry, Retry &amp; Retry…](https://vignesh-thirunavukkarasu.medium.com/retry-retry-retry-7ab2b460530b?source=rss-2e315d8a9499------2)
 - [Does API-Gateway really makes sense in 2021 ??](https://vignesh-thirunavukkarasu.medium.com/does-api-gateway-really-makes-sense-in-2021-95a50fac6a65?source=rss-2e315d8a9499------2)
