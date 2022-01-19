@@ -4,7 +4,7 @@
 #### I'm Vignesh, Masters Student @ UTDallas   
 
  - I'm interested in Distributed Systems & Cloud Computing
- - I'm currently exploring Kafka & Redis with a self project
+ - Currently into exploring Kafka, Redis, Distributed tracing etc. with a self projects
  - Also - I recently got affinated towards IaC platforms (ansible, Terraform)
  - Occationally, I do blog my thoughts on [Medium](https://vignesh-thirunavukkarasu.medium.com)
 
@@ -12,7 +12,7 @@
 
 >  Everything fails at all the time - **Werner Vogels**
 
-> “The Only Constant in Life Is Change.”- **Heraclitus**
+>  The Only Constant in Life Is Change - **Heraclitus**
 
 
 ### 📕 Catch my recent blog posts
