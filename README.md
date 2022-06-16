@@ -14,6 +14,8 @@
 
 >  The Only Constant in Life Is Change - **Heraclitus**
 
+>  Good decisions come from experience, but experience comes from making bad decisions. – **Mark Twain**
+
 
 ### 📕 Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
