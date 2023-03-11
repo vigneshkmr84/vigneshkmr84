@@ -19,11 +19,11 @@
 
 ### 📕 Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Monitoring](https://vignesh-thirunavukkarasu.medium.com/synthetic-monitoring-d20d75123406?source=rss-2e315d8a9499------2)
 - [mTLS with Apache HTTP server](https://vignesh-thirunavukkarasu.medium.com/mtls-with-apache-http-server-fbfd702106ca?source=rss-2e315d8a9499------2)
 - [How good is uDeploy for Enterprise ?](https://vignesh-thirunavukkarasu.medium.com/how-good-is-udeploy-for-enterprise-1f728d6dd030?source=rss-2e315d8a9499------2)
 - [Useful Linux Commands for Developers](https://vignesh-thirunavukkarasu.medium.com/useful-linux-commands-for-developers-56b96fe53a93?source=rss-2e315d8a9499------2)
 - [Retry, Retry &amp; Retry…](https://vignesh-thirunavukkarasu.medium.com/retry-retry-retry-7ab2b460530b?source=rss-2e315d8a9499------2)
-- [Does API-Gateway really makes sense in 2021 ??](https://vignesh-thirunavukkarasu.medium.com/does-api-gateway-really-makes-sense-in-2021-95a50fac6a65?source=rss-2e315d8a9499------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
