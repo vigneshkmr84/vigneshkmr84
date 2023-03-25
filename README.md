@@ -19,11 +19,11 @@
 
 ### 📕 Catch my recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Tracing setup for Enterprise](https://vignesh-thirunavukkarasu.medium.com/distributed-tracing-setup-for-enterprise-dfd680c145c3?source=rss-2e315d8a9499------2)
 - [Better way of implementing  JWT](https://vignesh-thirunavukkarasu.medium.com/better-way-of-implementing-jwt-884f0e4fdc88?source=rss-2e315d8a9499------2)
 - [Synthetic Monitoring](https://vignesh-thirunavukkarasu.medium.com/synthetic-monitoring-d20d75123406?source=rss-2e315d8a9499------2)
 - [mTLS with Apache HTTP server](https://vignesh-thirunavukkarasu.medium.com/mtls-with-apache-http-server-fbfd702106ca?source=rss-2e315d8a9499------2)
 - [How good is uDeploy for Enterprise ?](https://vignesh-thirunavukkarasu.medium.com/how-good-is-udeploy-for-enterprise-1f728d6dd030?source=rss-2e315d8a9499------2)
-- [Useful Linux Commands for Developers](https://vignesh-thirunavukkarasu.medium.com/useful-linux-commands-for-developers-56b96fe53a93?source=rss-2e315d8a9499------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
